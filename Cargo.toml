@@ -5,4 +5,4 @@ members = [
     "crates/solarust",
     "crates/solarust-system",
     "crates/parasytecalypse"
-]
+, "crates/solarust-render"]
