@@ -1,0 +1,7 @@
+[package]
+name = "parasytecalypse"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solarust = { version = "0.1.0", path = "../solarust" }
